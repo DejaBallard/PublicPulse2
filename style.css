@@ -1,0 +1,23 @@
+body{
+    background-color:#F7F5FB;
+}
+.nav-link{
+    font-size: 30px;
+}
+.navbar-brand{
+    font-size: 50px;
+}
+#nav-space:hover{
+    color: #7C7C7D;
+}
+.footer{
+	line-height: 60px;
+}
+.card{
+    padding:5% ;
+    margin: 2%;
+}
+.pulse{
+    margin-left: 5%;
+    margin-right: 5%;
+}
